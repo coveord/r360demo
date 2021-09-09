@@ -27,6 +27,7 @@
     "expo-web-browser": "~9.2.0",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
     "intl": "^1.2.5",
+    "pino-pretty": "^7.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
